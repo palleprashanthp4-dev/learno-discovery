@@ -18,7 +18,7 @@ https://learno-discovery.vercel.app/
 
 ## 📸 Project Preview
 
-![LEARNO Learning Discovery Platform](./screenshot.png)
+![LEARNO Learning Discovery Platform](https://github.com/palleprashanthp4-dev/learno-discovery/blob/main/Screenshot%202026-08-21%20164939.png)
 
 ---
 
